@@ -1,8 +1,10 @@
 # URG
 
-Untitiled Rhythm Game (URG) is a simple rhythm game I made for fun. Hit notes coming down the screen that correspond to rhythmic events in songs. 
+Untitiled Rhythm Game (URG) is a simple, four-lane rhythm game. Hit notes coming down the screen that correspond to rhythmic events in songs. 
 
 ![](./bin/demo.gif)
+
+This project is one I made for fun in JavaFX. This was mostly just to see if I had the chops to make a game from scratch (base JavaFX is not really suited for games), so I might use this as a basis for a more creative one down the line, maybe created with an actual game framework. 
 
 ## How to Play 
 
