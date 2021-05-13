@@ -1,0 +1,127 @@
+
+
+.pause-screen-button {
+  -fx-background-color: #4287f5;
+  -fx-border-radius: 10px;
+}
+
+.pause-screen-button-text {
+  -fx-font: 40px "Thonburi";
+  -fx-text-fill: #ffffff;
+  -fx-color: #ffffff;
+}
+
+.menu-button {
+  -fx-font: 30px "Thonburi";
+  -fx-text-inner-color: rgb(25,25,25);
+}
+
+.mm-title-text {
+  -fx-font: 50px "Thonburi";
+  -fx-text-inner-color: rgb(0, 100, 255);
+  -fx-text-fill: rgb(0, 100, 255);
+}
+
+.song-item {
+  -fx-font: 16px "Thonburi";
+  -fx-text-inner-color: white;
+  -fx-padding: 10; 
+  -fx-background-color: "rgba(0,0,0,0.6)";
+  -fx-border-width: 3px;
+  -fx-border-color: "rgba(255,255,255,1)"; 
+  -fx-border-style: solid;
+}
+
+.song-item-title {
+  -fx-font: 20px "Thonburi";
+}
+
+
+.song-group-item {
+  -fx-font: 24px "Thonburi";
+  -fx-text-inner-color: white;
+  -fx-background-color: "rgba(0,0,0,0.6)";
+  -fx-border-width: 3px;
+  -fx-border-color: "rgba(255,255,255, 1)"; 
+  -fx-border-style: solid;
+
+}
+
+.now-playing {
+  -fx-font: 18px "Thonburi";
+}
+
+.preview-title {
+  -fx-font: 32px "Thonburi";
+}
+
+.preview-artist {
+  -fx-font: 20px "Thonburi";
+}
+
+.score-item {
+  -fx-background-color: "rgba(50,50,50,1)";
+  -fx-border-width: 3px;
+  -fx-border-color: "rgba(255,255,255, 0.5)"; 
+  -fx-border-style: solid;
+}
+
+.scores-box {
+  -fx-background-color: "rgba(0,0,0,0.6)";
+  -fx-border-width: 3px;
+  -fx-border-color: "rgba(255,255,255, 1)"; 
+  -fx-border-style: solid;
+}
+
+.back-button {
+  -fx-font: 24px "Thonburi";
+}
+
+.settings-field {
+  -fx-font: 24px "Thonburi";
+}
+
+.result-title {
+  -fx-font: 18px "Thonburi";
+}
+
+.result-grade {
+  -fx-font: 100px "Thonburi";
+}
+
+.score-grade {
+  -fx-font: 40px "Thonburi";
+
+}
+
+.score-item-text {
+  -fx-font: 20px "Thonburi";
+}
+
+.result-score {
+  -fx-font: 20px "Thonburi";
+}
+
+.result-accuracy {
+  -fx-font: 20px "Thonburi";
+}
+
+/* Styling the slider track */
+.jfx-slider > .track {
+  -fx-background-color: rgb(26,92,214);
+}
+
+/* Styling the slider thumb */
+.jfx-slider > .thumb {
+  -fx-background-color: rgb(66,132,254);
+}
+
+/* Styling the filled track */
+.jfx-slider > .colored-track {
+  -fx-background-color: rgb(66,132,254);
+}
+
+/* Styling the animated thumb */
+.jfx-slider > .animated-thumb {
+  -fx-background-color: rgb(66,132,254);
+}
