@@ -14,7 +14,7 @@ For this project to work, you'll need to install the Maven package manager.
 
 There are 2 script files for you to use. Each has a `bat` and `bash` equivalent
 
-`run` runs the program
-`javadoc` creates the javadoc files 
+- `run` runs the program
+- `javadoc` creates the javadoc files 
 
 In order to correctly use the scripts, run them from the outermost directory, e.g. `bash ./scripts/run.bash` 
