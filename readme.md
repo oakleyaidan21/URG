@@ -2,6 +2,8 @@
 
 Untitiled Rhythm Game (URG) is a simple rhythm game I made for fun. Hit notes coming down the screen that correspond to rhythmic events in songs. 
 
+![](./bin/demo.gif)
+
 ## How to Play 
 
 A manual for how to use the program is located in `/manuals/User Manual.pdf`
